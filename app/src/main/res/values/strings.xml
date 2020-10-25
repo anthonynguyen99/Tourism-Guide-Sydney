@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">TourismGuide</string>
+    <string name="app_name">Travel Buddy</string>
+
+    <string-array name="attraction">
+        <item>All</item>
+        <item>Beaches</item>
+        <item>Gardens</item>
+        <item>Landmarks</item>
+        <item>Recreational Parks</item>
+        <item>Theme Parks</item>
+        <item>Zoos</item>
+    </string-array>
 </resources>
+
